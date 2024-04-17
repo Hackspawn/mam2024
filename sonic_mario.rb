@@ -8,6 +8,7 @@ notes_and_durations = [76, 12, 76, 12, 20, 12, 76, 12, 20, 12, 72, 12, 76, 12, 2
 
 # Iterar sobre la lista en pasos de 2
 notes_and_durations.each_slice(2) do |note, duration|
+  #use_synth aquí
   play note
   sleep duration * 0.1  # Ajusta el 0.1 a tu preferencia para cambiar la duración de las pausas
 end
