@@ -4,7 +4,7 @@ En este repositorio dejaré los códigos y archivos utilizados en las clases de 
 
 ### Clase #3 Sonic Pi:
 
-[Código Acá ](https://github.com/Hackspawn/mam2024/clase_3/)
+[Código Acá ](https://github.com/Hackspawn/mam2024/clase_3/README.md)
 
 #### Tarea en clases: 
 
@@ -19,7 +19,7 @@ Pueden basarse en las notas del siguiente repositorio:
 
 ### Clase #4 MIDI + Arduino + SonicPi:
 
-[Códigos Acá ](https://github.com/Hackspawn/mam2024/clase_4/)
+[Códigos Acá ](https://github.com/Hackspawn/mam2024/clase_4/README.md)
 
 #### Tarea clases:
 
