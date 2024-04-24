@@ -19,6 +19,8 @@ Pueden basarse en las notas del siguiente repositorio:
 
 ### Clase #4 MIDI + Arduino + SonicPi:
 
+![Esquemático](Sharp_2Y0A21.png)
+
 [Códigos Acá ](clase_4/README.md)
 
 #### Tarea clases:
