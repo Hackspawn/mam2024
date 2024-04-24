@@ -19,7 +19,7 @@ Pueden basarse en las notas del siguiente repositorio:
 
 ### Clase #4 MIDI + Arduino + SonicPi:
 
-[Códigos Acá ](https://github.com/Hackspawn/mam2024/clase_4/README.md)
+[Códigos Acá ](clase_4/README.md)
 
 #### Tarea clases:
 
