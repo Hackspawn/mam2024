@@ -4,7 +4,7 @@ En este repositorio dejaré los códigos y archivos utilizados en las clases de 
 
 ### Clase #3 Sonic Pi:
 
-[Código Acá ](https://github.com/Hackspawn/mam2024/clase_3/sonic_mario.rb)
+[Código Acá ](https://github.com/Hackspawn/mam2024/clase_3/)
 
 #### Tarea en clases: 
 
