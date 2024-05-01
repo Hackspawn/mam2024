@@ -7,4 +7,5 @@ Capturar información mediante arduino y [librería SD](https://www.arduino.cc/r
   - Con una tarjeta microSD en formato [FAT32](https://es.wikipedia.org/wiki/Tabla_de_asignación_de_archivos) creamos un archivo de *texto sin formato* llamado *datalog.txt* y lo guardamos en la MicroSD
   - Con un potenciometro conectado al Analog 0 (A0) mapeamos su data con la función *map()* de 0-1023 a 0-100
   - Según el esquemático de conexión el **módulo para MicroSD** debería quedar de la siguiente manera:
-    ![esquema de conexión módulo MicroSD](arduino-micro-sd-esquema.png) 
+    ![esquema de conexión módulo MicroSD](arduino-micro-sd-esquema.png)
+  - En una comunicación SPI: VCC (Alimentación 5V (generalmente)); GND (Tierra); MOSI (Master Output Slave Input); MISO (Master Input Slave OUTPUT); SCK (System Clock); CS (chip select).
