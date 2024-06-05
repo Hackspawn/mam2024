@@ -10,7 +10,7 @@
 - Desarrollo de Script Python de Conexión entre BOT y LEDs usando puertos **GPIO** *(General Purpose Input Output)*.
 - Manejo Remoto de LEDs mediante mensajería de Texto.
 
-A partir del [MAPA de Puertos GPIO]https://learn.sparkfun.com/tutorials/introduction-to-the-raspberry-pi-gpio-and-physical-computing/gpio-pins-overview se trabaja
+A partir del [MAPA de Puertos GPIO](https://learn.sparkfun.com/tutorials/introduction-to-the-raspberry-pi-gpio-and-physical-computing/gpio-pins-overview) se trabaja
 con los siguientes puertos: 26 (blanco), 19 (amarillo), 13 (rojo), 6 (verde) y se agrega un quinto puerto 5 para un LED Azul. El esquemático debe quedar de la siguiente forma:
 
 ![Esquemático inicial visto en clases](telegram_leds.png)
