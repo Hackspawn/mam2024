@@ -61,3 +61,15 @@ En el caso de hoy trabajamos con el mismo sensor SHARP IR de la clase#4. Los dat
 Intenta conectar un sensor distinto como un potenciometro, mapea los valores con *map()* y registralos en serial con *Serial.print*
 
 Suerte!
+
+# Clase #9: Introducción a Raspberry Pi + Python + Telegram BOT
+
+### Actividades en Clases:
+**Bloque 1:** Introducción a Raspberry Pi.
+- Diferencias con Arduino.
+- Instalación de Raspberry OS.
+- Instalación de librerías para Python mediante *PyPI* (PIP).
+**Bloque 2:** [Desarrollo de Proyecto en Clases](clase_9/README.md).
+- Diseño de Bot de mensajería en Telegram mediante *BOTFATHER*.
+- Desarrollo de Script Python de Conexión entre BOT y LEDs usando puertos **GPIO** *(General Purpose Input Output)*.
+- Manejo Remoto de LEDs mediante mensajería de Texto.
