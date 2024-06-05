@@ -69,6 +69,7 @@ Suerte!
 - Diferencias con Arduino.
 - Instalación de Raspberry OS.
 - Instalación de librerías para Python mediante *PyPI* (PIP).
+  
 **Bloque 2:** [Desarrollo de Proyecto en Clases](clase_9/README.md).
 - Diseño de Bot de mensajería en Telegram mediante *BOTFATHER*.
 - Desarrollo de Script Python de Conexión entre BOT y LEDs usando puertos **GPIO** *(General Purpose Input Output)*.
