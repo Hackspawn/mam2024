@@ -1,0 +1,8 @@
+hit_1,loop_3,hit_4,hit_2,loop_5
+loop_2,hit_3,hit_5,loop_1,hit_7
+hit_4,loop_5,hit_6,hit_1,loop_7
+loop_5,loop_7,hit_2,loop_1,hit_7
+hit_3,loop_3,hit_2,hit_1,loop_6
+loop_1,hit_3,hit_5,loop_1,hit_7
+hit_4,loop_5,hit_6,hit_1,loop_7
+loop_5,loop_7,hit_2,loop_1,hit_7
