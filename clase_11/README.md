@@ -6,7 +6,7 @@
 - Formas de construir un CSV con valores numéricos y data alfanumérica.
 - Establecer Rutas de acceso a carpetas locales mediante Ruby y Sonic Pi.
 - Combinación de la lectura de Samples mediados por CSV línea por línea.
-- Reproducción de muestras de audio. ([ver código](samples_csv.rb))
+- Reproducción de muestras de audio. ([ver código](clase_11/samples_csv.rb))
 
 ![Esquemático usado en el bloque 2](neopixel.png)
 **Bloque #2**:
