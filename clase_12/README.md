@@ -7,7 +7,9 @@
 - Uso de la libreria Open Kinect for Processing v1 y v2
 - Nubes de puntos; Profundidad; Tracking
 - Representación en Processing con P2D y P3D
+  
 **Bloque 2:**
+
 - Intercabio de video en RED con Syphon
 - Intercambio de video en RED con NDI
 - Uso de la libreria Syphon para Processing
