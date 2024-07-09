@@ -132,3 +132,25 @@ Puedes acceder al proyecto en tinkercad [acá](https://www.tinkercad.com/things/
 - Uso de OBS para cliente Syphon o NDI
 - Uso de VDMX para conexión Syphon/NDI; Audioreactibilidad; OSC; MIDI
 - Desarrollo de Visuales interactivas con Kinect+Processing+VDMX 
+
+# Clase #15: WLED Audioreactivo
+
+El [siguiente tutorial](https://github.com/Hackspawn/mam2024/blob/main/clase_15/README.md) está basado en el video WLED Sound Reactive
+
+Los materiales utilizados son los siguientes:
+
+- Aro LED Neopixel*24 (u otra) o tira LED Direccionable compatible.
+- Micrófono MAX4466.
+- ESP WROOM 32
+  
+Esquema de conexión:
+
+LEDs: 
+- VIN (5V) > Power LED
+- GND > GND
+- IN/DI > a GPIO2
+
+Mic MAX4466: 
+- 3V > VCC micrófono
+- GND > GND
+- OUT > D35 (Cambiar en WLED puerto 36 por 35).
